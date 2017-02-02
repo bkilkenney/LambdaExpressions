@@ -1,0 +1,6 @@
+C:\Users\bkilkenney\Desktop\Exercise Files\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch06\06_01\06_01_Lambda_Syntax_start\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\bkilkenney\Desktop\Exercise Files\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch06\06_01\06_01_Lambda_Syntax_start\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\bkilkenney\Desktop\Exercise Files\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch06\06_01\06_01_Lambda_Syntax_start\LINQ_Examples\obj\Debug\LINQ_Examples.pdb
+C:\Users\bkilkenney\Desktop\Exercise Files\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch06\06_01\06_01_Lambda_Syntax_start\LINQ_Examples\bin\Debug\LINQ_Examples.exe
+C:\Users\bkilkenney\Desktop\Exercise Files\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch06\06_01\06_01_Lambda_Syntax_start\LINQ_Examples\bin\Debug\LINQ_Examples.pdb
+C:\Users\bkilkenney\Desktop\Exercise Files\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch06\06_01\06_01_Lambda_Syntax_start\LINQ_Examples\obj\Debug\06_01_Lambda_Syntax_start.csprojResolveAssemblyReference.cache
